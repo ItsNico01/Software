@@ -1,0 +1,4 @@
+name: Plugin
+version: 1.0-SNAPSHOT
+main: org.example.me.Plugin.Plugin
+api-version: 1.21
